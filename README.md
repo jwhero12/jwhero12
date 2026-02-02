@@ -20,7 +20,7 @@ I have experience in academia–industry collaborative projects, research projec
 ---
 
 ## 🎯 About Me
-- Ph.D. Student in AI Convergence at :contentReference[oaicite:0]{index=0}  
+- Ph.D. Student in AI Convergence at Hanyang University
 - Research in Convergent AI across medical, industrial, and cross-domain applications  
 - Extensive experience in teaching, projects, and academia–industry collaboration  
 - Passionate about research and creating practical, real-world Convergent AI systems ✨
