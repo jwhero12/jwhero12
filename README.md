@@ -130,21 +130,21 @@ I have experience in academia–industry collaborative projects, research projec
 ---
 ## 🏅 Activities & Experience
 
-### • 2017 — 컴퓨터·정보 분야 TR  
+### • 컴퓨터·정보 분야 TR — 2017
 이화여자고등학교 운영 체계 개편 제안(스마트 게시판 · 스마트 출입 시스템 · 스마트 홈페이지 구축 방향 제시)
 
-### • 2020 — 한국장학재단 사회리더 대학생 멘토링  
+### • 한국장학재단 사회리더 대학생 멘토링 — 2020   
 코로나19 언택트 시대의 IT 개발자 역할 중심 멘토링 및 외부 기업 탐방 경험  
-### • 2019–2020 — 이태원 맥도날드 GEL  
+### • 이태원 맥도날드 GEL — 2019–2020 
 외국인 고객 응대 중심 Guest Experience Leader 역할 수행 및 태국 VIP 행사 홍보 활동  
 
 ---
 ## 💼 Work Experience
 
-### • 2019–2021 — The Space Friends  
+### • The Space Friends — 2019–2021
 다문화 아동 대상 SW·한글 융합 교육 및 학습 콘텐츠 개발  
 
-### • 2021–2022 — 세원아토스  
+### • 세원아토스 — 2021–2022
 PHP 기반 쇼핑몰 ADMIN 개발 및 델파이 기반 패션 ERP·POS AS/기능 개발  
 
 ---
