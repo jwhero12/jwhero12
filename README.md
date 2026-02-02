@@ -62,10 +62,6 @@ I have experience in academia–industry collaborative projects, research projec
   ➤ Neonatal portable X-ray 이미지 품질 향상을 위해 **베이지안 최적화 기반 CLAHE(BO-CLAHE)** 제안  
   ➤ Segmentation + Bone suppression + BO-CLAHE + Classification 파이프라인  
   ➤ TTN 진단 정확도 향상  
-  <br/>  
-  _DOI: 10.1038/s41598-025-88451-0_  
-  (본 논문은 사용자가 첨부한 파일 「BO-CLAHE enhancing neonatal chest X-ray image quality…」 기반)
-
 ---
 
 ### 📌 **Domestic Papers**
